@@ -36,7 +36,7 @@ and get rewards.
 
 """,
     'author': 'OpenERP SA',
-    'depends': ['point_of_sale'],
+    'depends': ['point_of_sale','loyalty'],
     'data': [
         'views/views.xml',
         'views/templates.xml',
