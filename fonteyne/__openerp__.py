@@ -21,7 +21,7 @@
 
 
 {
-    'name': 'Fonteyne2',
+    'name': 'Fonteyne',
     'version': '1.0',
     'category': 'Point of Sale',
     'sequence': 6,
